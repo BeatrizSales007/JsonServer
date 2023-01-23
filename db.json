@@ -1,0 +1,152 @@
+{
+    "Hamburgueria": [
+        {
+            "id":1,
+            "nome":"Fast Burguer",
+            "gerente": "Arthur",
+            "local" :"Rua João Baptista Scalco, RJ"
+        },
+        {
+            "id":2,
+            "nome":"Burger na chapa",
+            "gerente": "Helena",
+            "local" :"Rua Bromélias, Rj"
+        },
+        {
+            "id":3,
+            "nome":"Buguer Castle",
+            "gerente": "Raquel",
+            "local" :"Rua Carvalho e Melo, RJ"
+        },
+        {
+            "id":4,
+            "nome":"Chili Burguer",
+            "gerente": "Gabriel",
+            "local" :"Rua Dorival Ferreira, RJ"
+        }
+    ],
+    "horarios": [
+        {
+          "id:": 1,
+          "abertura": "17:00",
+          "fechamento": "2:00",
+          "não abre": "Segunda,terça e quarta"  
+        },
+        {
+          "id:": 2,
+          "abertura": "17:00",
+          "fechamento": "2:00",
+          "não abre": "Segunda,terça e quarta"  
+        },
+        {
+          "id:": 3,
+          "abertura": "17:00",
+          "fechamento": "2:00",
+          "não abre": "Segunda,terça e quarta"  
+        },
+        {
+          "id:": 4,
+          "abertura": "17:00",
+          "fechamento": "2:00",
+          "não abre": "Segunda,terça e quarta"  
+        }      
+      ],
+      "Cardapio e preço":[
+        {
+            "id":1,
+            "nome":"Hambúrguer",
+            "valor": "R$ 10,00",
+            "Descrição":"Pão ,carne,ketchup,maionese ,alface"
+        },
+        {
+            "id":1,
+            "nome":"hambúrguer duplo",
+            "valor": "R$ 12,00",
+            "Descrição":"213"
+        },
+        {
+            "id":1,
+            "nome":"hambúrguer calabresa",
+            "valor": "R$ 12,50",
+            "Descrição":"Pão,carne,calabresa,ketchup,maionese,alface "
+        },
+        {
+            "id":1,
+            "nome":"Duplo Cheddar",
+            "valor": "R$ 20,00",
+            "Descrição":"Duplo Cheddar bacon"
+        },
+        {
+            "id":2,
+            "nome":"Bk Cheddar Burger",
+            "valor": "R$ 17,90",
+            "Descrição":"Delicioso Hamburguer de Cheddar: Pão com gergelim, carne de hamburguer 90g, queijo cheddar super cremoso e molho shoyo."
+        },
+        {
+            "id":2,
+            "nome":"BK CHEDDAR BURGER CRISPY",
+            "valor": "R$ 19,90",
+            "Descrição":"Pão de gergelim, carne 90g, queijo cheddar cremoso, e cebola crispy (cebola crocante)"
+        },
+        {
+            "id":2,
+            "nome":"STAR TREK",
+            "valor": "R$ 27,99",
+            "Descrição":"Pão de gergelim, carne de hamburguer, maionese temperada e fatia de queijo"
+        },
+        {
+            "id":2,
+            "nome":"BK STACKER BACON",
+            "valor": "R$ 25,99",
+            "Descrição":"Pão de gergelim, carne de hamburguer 60g, fatia de queijo derretido, cubos de bacon crocante e o nosso exclusivo molho caseiro de bacon."
+        },
+        {
+            "id":3,
+            "nome":"MONTANA CHEESEBURGER",
+            "valor": "R$ 31,90",
+            "Descrição":"Hambúrguer Artesanal 150g + deliciosa Maionese Montana + Queijo Cheddar em fatias"
+        },
+        {
+            "id":3,
+            "nome":"MONTANA SALADA",
+            "valor": "R$ 32,90",
+            "Descrição":"Hambúrguer Artesanal 150g + deliciosa Maionese Montana + Queijo Cheddar em fatias + Alface + Tomate"
+        },
+        {
+            "id":3,
+            "nome":"SUPER MONTANA",
+            "valor": "R$ 48,90",
+            "Descrição":"2 Hambúrgueres Artesanais 150g cada + deliciosa Maionese Montana + Queijo Cheddar em fatias + Onion Rings + Bacon em fatias + Molho Barbecue"
+        },
+        {
+            "id":3,
+            "nome":"MONTANA CRISPY CHICKEN",
+            "valor": "R$ 38,90",
+            "Descrição":"Filé de Frango Empanado 220g + deliciosa Maionese Montana + Queijo Cheddar em fatias + Alface + Tomate + Molho Honey & Mustard"
+        },
+        {
+            "id":4,
+            "nome":"COSTELA ANGUS",
+            "valor": "R$ 42,00",
+            "Descrição":"O fora da curva! 180g de costela bovina angus, queijo cheddar, alface, bacon, pico de gallo e molho â sua escolha."
+        },
+        {
+            "id":4,
+            "nome":"COSTELA CHEDDAR BOMB",
+            "valor": "R$ 46,00",
+            "Descrição":"Uma explosão de sabor! Molho de pimenta sriracha (Picante), 180g de costela bovina angus, queijo cheddar derretido, tiras de bacon, creme de cheddar e molho à sua escolha."
+        },
+        {
+            "id":4,
+            "nome":"CRISPY BACON BURGER (CBB)",
+            "valor": "R$ 45,00",
+            "Descrição":"110g de blend burguês envolvida no bacon...sim, envolvida no bacon! Queijo cheddar derretido, molho à sua escolha, alface, tomate e cebola empanada pra arrematar."
+        },
+        {
+            "id":4,
+            "nome":"GRAN CLÁSSICO",
+            "valor": "R$ 46,00",
+            "Descrição":"Um clássico! 180g do Blend burguês, queijo muçarela derretido, picles, tiras de bacon e molho à sua escolha."
+        }
+      ]
+}
